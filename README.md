@@ -1,7 +1,10 @@
-# Solving_FCTP_using_DW
+# Solving the Fixed Charge Transportion Problem using DW
 
 **Project Overview**
-This project explores the Fixed Charge Transportation Problem (FCTP), an extension of the classical transportation problem. The FCTP considers both fixed and variable costs associated with transporting goods from a set of supply nodes to a set of demand nodes. The goal of the project is to model the problem mathematically and explore solution techniques such as Dantzig-Wolfe decomposition. The project is inspired by course 42136 Large Scale Optimization using Decomposition taught by Stefan Røpke, Richard Martin Lusby, Thomas Jacob Riis Stidsen at DTU.
+
+This project explores the Fixed Charge Transportation Problem (FCTP), an extension of the classical transportation problem. The FCTP considers both fixed and variable costs associated with transporting goods from a set of supply nodes to a set of demand nodes. The goal of the project is to model the problem mathematically and explore solution techniques such as Dantzig-Wolfe decomposition. 
+
+The project is inspired by course 42136 Large Scale Optimization using Decomposition taught by Stefan Røpke, Richard Martin Lusby, Thomas Jacob Riis Stidsen at DTU.
 
 In the FCTP, we are given a set of supply nodes (S) and a set of demand nodes (T). The problem is to determine the most cost-effective way to transport goods from the supply nodes to the demand nodes, considering two types of costs. The fixed cost incurred to open a connection between supply node 𝑖 and demand node j, and the variable cost per unit of goods transported from 𝑖 to 𝑗.
 
